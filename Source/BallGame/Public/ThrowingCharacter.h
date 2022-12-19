@@ -45,7 +45,7 @@ protected:
 
 	/** Called when the shooting strength is updated. */
 	UFUNCTION(BlueprintImplementableEvent)
-	void ShootingStrengthUpdated(float ShootingStrengh);
+	void ShootingStrengthUpdated(float CurrentShootingTime);
 	
 	
 	/** The blueprint class of the ball we are spawning. */
@@ -70,7 +70,11 @@ public:
 	/** The time to respawn the ball in seconds. */
 	UPROPERTY(EditAnywhere)
 	float RespawnTime = 0.2f;
-	
+
+	/** The maximum time the shooting strength can be scaled */
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	float MaxShootingTime = 3.f;
+
 private:
 	/** The time we were trying to shoot the ball in seconds  */
 	float ShootingTime = 0.0f;
