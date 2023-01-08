@@ -2189,19 +2189,6 @@
 				{
 					"nodeData":
 					{
-						"A862A00C44DE4BDAE1807E9EDCBF12BD":
-						{
-							"cachedNodeSize":
-							{
-								"x": 165.80000305175781,
-								"y": 58
-							},
-							"cachedPins":
-							{
-								"33A6A22847E284B45896EB803E89471B": 12,
-								"DAE649864D1E7D933382439C01F6B54E": 41
-							}
-						},
 						"60E6EECE4219ED413AAF7DA5BD693328":
 						{
 							"cachedNodeSize":
@@ -2314,20 +2301,6 @@
 								"C3C39B5A43994A1F32A3E4A9B0958709": 68.199996948242188
 							}
 						},
-						"A22F8EEC4AD275831D3E0CB21B8E3B03":
-						{
-							"cachedNodeSize":
-							{
-								"x": 275.4000244140625,
-								"y": 84.400001525878906
-							},
-							"cachedPins":
-							{
-								"C40A5AFA4407F57B316412AB90EF1B25": 0,
-								"C11F0C454F323BE47E6157B5708FB023": 0,
-								"1832ADC94CF418DE068B5BA8180B3FFD": 0
-							}
-						},
 						"B00F9F6A4DB191E8E7B274ABA8FAAD85":
 						{
 							"cachedNodeSize":
@@ -2358,20 +2331,6 @@
 								"76DBEB5C4933D6F692578096D493609F": 87.599998474121094,
 								"944D8D8D42E82942F21B44ACB0489F24": 116,
 								"8540C2064DDA83E1ECC52C8648208F1A": 58.400001525878906
-							}
-						},
-						"FC32D8814A475D8CF646418B4E76A0D9":
-						{
-							"cachedNodeSize":
-							{
-								"x": 272.20001220703125,
-								"y": 84.400001525878906
-							},
-							"cachedPins":
-							{
-								"4ECF0C77483D8CA8537302B2006DBCFD": 12,
-								"DBF58DC44F46F948FBF7B681A7B38718": 41,
-								"F14ED83D49E5A7A97A80899B59B705EE": 68.199996948242188
 							}
 						},
 						"A1AE7FB64E3A5AA2655C69899890A0F2":
@@ -4144,6 +4103,42 @@
 			"graphData":
 			{
 				"563F50974B4DA0D1968233A48217D662":
+				{
+					"nodeData":
+					{
+					}
+				}
+			}
+		},
+		"/Game/BallGame/BP_Platform":
+		{
+			"graphData":
+			{
+				"AC26309F4E72A07A6461C0B0F34EA689":
+				{
+					"nodeData":
+					{
+					}
+				}
+			}
+		},
+		"/Game/BallGame/Core/BP_SaveGame":
+		{
+			"graphData":
+			{
+				"2F13191E4627CE6E48ABC9B455802B62":
+				{
+					"nodeData":
+					{
+					}
+				}
+			}
+		},
+		"/Game/BallGame/BP_Platform_2":
+		{
+			"graphData":
+			{
+				"AC26309F4E72A07A6461C0B0F34EA689":
 				{
 					"nodeData":
 					{
