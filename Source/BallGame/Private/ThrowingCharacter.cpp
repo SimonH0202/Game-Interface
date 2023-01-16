@@ -119,7 +119,7 @@ void AThrowingCharacter::ShootBall()
 	// Broadcast the OnBallShot delegate, so we can bind to it in blueprint.
 	OnBallShot.Broadcast();
 
-	Ball->bWasThrown = true;
+	Ball->bWasShot = true;
 	
 	// Ball variable now stores nullptr because we are not holding the ball anymore
 	Ball = nullptr;
