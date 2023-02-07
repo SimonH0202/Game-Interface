@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\private\\blueprintassistgraphpanelnodefactory.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\intermediate\\build\\win64\\ballgameeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\intermediate\\build\\win64\\unrealeditor\\development\\blueprintassist\\definitions.blueprintassist.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassistgraphpanelnodefactory.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\edgraphutilities.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassistsettings.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\propertyeditor\\public\\idetailcustomization.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintassist\\blueprintassistsettings.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\blueprintgraph\\classes\\k2node_knot.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintgraph\\k2node_knot.generated.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistwidgets\\blueprintassistknotnode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\grapheditor\\public\\sgraphnodeknot.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\grapheditor\\public\\sgraphpin.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\grapheditor\\public\\sgraphnode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\grapheditor\\public\\snodepanel.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\grapheditor\\public\\marqueeoperation.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\grapheditor\\public\\sgraphnodedefault.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistwidgets\\blueprintassisthotkeymenu.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\intermediate\\build\\win64\\ballgameeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\intermediate\\build\\win64\\unrealeditor\\development\\blueprintassist\\definitions.blueprintassist.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistwidgets\\blueprintassisthotkeymenu.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistwidgets\\bafilteredlist.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassistglobals.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\private\\blueprintassiststyle.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyle.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateborderbrush.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateboxbrush.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slatecore\\public\\brushes\\slatecolorbrush.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateroundedboxbrush.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateimagebrush.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slate\\public\\slateoptmacros.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\input\\ssearchbox.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\sseparator.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassistinputprocessor.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistactions\\blueprintassistblueprintactions.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistactions\\blueprintassistactionsbase.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassistcommands.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistactions\\blueprintassistglobalactions.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistactions\\blueprintassistgraphactions.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistactions\\blueprintassisttabactions.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistactions\\blueprintassistnodeactions.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistactions\\blueprintassistpinactions.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistactions\\blueprintassisttoolkitactions.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slate\\public\\framework\\application\\iinputprocessor.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassistmodule.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\sscrollbox.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

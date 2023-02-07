@@ -1,0 +1,23 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AutoSizeComments.cpp.obj": [
+			"AutoSizeCommentsCacheFile.cpp.obj",
+			"AutoSizeCommentsGraphHandler.cpp.obj",
+			"AutoSizeCommentsGraphNode.cpp.obj",
+			"AutoSizeCommentsGraphPanelNodeFactory.cpp.obj",
+			"AutoSizeCommentsInputProcessor.cpp.obj",
+			"AutoSizeCommentsModule.cpp.obj",
+			"AutoSizeCommentsNodeChangeData.cpp.obj",
+			"AutoSizeCommentsNotifications.cpp.obj",
+			"AutoSizeCommentsSettings.cpp.obj",
+			"AutoSizeCommentsState.cpp.obj",
+			"AutoSizeCommentsUtils.cpp.obj"
+		],
+		"Module.AutoSizeComments.gen.cpp.obj": [
+			"AutoSizeComments.init.gen.cpp.obj",
+			"AutoSizeCommentsCacheFile.gen.cpp.obj",
+			"AutoSizeCommentsSettings.gen.cpp.obj"
+		]
+	}
+}

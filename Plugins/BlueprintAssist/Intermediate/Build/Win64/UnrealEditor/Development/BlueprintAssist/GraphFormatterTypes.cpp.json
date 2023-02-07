@@ -1,0 +1,38 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\graphformatters\\graphformattertypes.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\intermediate\\build\\win64\\ballgameeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\intermediate\\build\\win64\\unrealeditor\\development\\blueprintassist\\definitions.blueprintassist.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\graphformatters\\graphformattertypes.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassistsettings.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\propertyeditor\\public\\idetailcustomization.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintassist\\blueprintassistsettings.generated.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassisttypes.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassistglobals.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassistutils.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\grapheditor\\public\\sgraphpin.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\grapheditor\\public\\sgraphnode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\grapheditor\\public\\snodepanel.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\grapheditor\\public\\marqueeoperation.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassistgraphhandler.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassistdelayeddelegate.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\public\\blueprintassistnodesizechangedata.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\graphformatters\\edgraphformatter.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\graphformatters\\blueprintassistcommenthandler.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\graphformatters\\blueprintassistcommentcontainsgraph.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\edgraphnode_comment.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\edgraphnode_comment.generated.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\graphformatters\\formatterinterface.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\graphformatters\\knottrack\\knottrackcreator.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\graphformatters\\knottrack\\knottrack.h",
+            "c:\\users\\jakob\\onedrive\\dokumente\\unreal projects\\game-interface\\plugins\\blueprintassist\\source\\blueprintassist\\blueprintassistwidgets\\blueprintassistgraphoverlay.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\blueprintgraph\\classes\\k2node_knot.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintgraph\\k2node_knot.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
